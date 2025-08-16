@@ -7,7 +7,7 @@ This site is designed for affiliate marketing and optimized for Pinterest sharin
 ---
 
 ## 🌐 Live Website  
-👉 [Visit Slay Market](https://yourusername.github.io/slay-website/)
+👉 [Visit Slay Market](https://kiaguardiano-commits.github.io/superslay/)
 
 ---
 
