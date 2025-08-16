@@ -19,8 +19,8 @@ This site is designed for affiliate marketing and optimized for Pinterest sharin
 ---
 
 ## 🔗 Connect  
-- 📌 Pinterest: [Your Pinterest Link]  
-- 🌎 Website: [Your Domain or GitHub Pages Link]
+- 📌 Pinterest: https://ph.pinterest.com/keeeyyystore/  
+- 🌎 Website: https://kiaguardiano-commits.github.io/superslay/
 
 ---
 
